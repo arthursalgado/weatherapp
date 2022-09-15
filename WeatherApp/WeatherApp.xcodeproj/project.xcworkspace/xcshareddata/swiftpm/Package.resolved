@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "objectmapper",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tristanhimmelman/ObjectMapper.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "a593b4d647a970b3d184d046f8f52b945083ccf9"
+      }
+    }
+  ],
+  "version" : 2
+}
